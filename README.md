@@ -1,11 +1,7 @@
 <html>
-
 <head>
-
 <title>Employee Salary Calculation </title>
-
 <style>
-
  body {
             margin: 0;
             padding: 0;
